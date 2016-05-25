@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["decode",""],["encode",""]],"trait":[["Field","Any object that will represent a config field."],["FieldMut","Trait for manipulating the contents of a field structure."],["FieldRef","Trait for viewing the contents of a `Field` structure."]],"type":[["RawValue",""]]});
