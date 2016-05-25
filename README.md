@@ -6,7 +6,7 @@ Configuration / settings backed by JSON files
 
 | Linux CI | Test Coverage | Crate | Documentation |
 |:--------:|:-------------:|:-----:|:-------------:|
-| [![Build Status](https://travis-ci.org/icorderi/rust-jconfig.svg?branch=master)](https://travis-ci.org/icorderi/rust-jconfig) | [![Coverage Status](https://coveralls.io/repos/icorderi/rust-jconfig/badge.svg?branch=master)](https://coveralls.io/r/icorderi/rust-jconfig?branch=master) | [![Crate](http://meritbadge.herokuapp.com/jconfig)](https://crates.io/crates/jconfig) | [![Docs](https://img.shields.io/badge/docs-up--to--date-blue.svg)](http://icorderi.github.io/rust-jconfig/index.html)
+| [![Build Status](https://travis-ci.org/icorderi/rust-jconfig.svg?branch=master)](https://travis-ci.org/icorderi/rust-jconfig) | [![Coverage Status](https://coveralls.io/repos/icorderi/rust-jconfig/badge.svg?branch=master)](https://coveralls.io/r/icorderi/rust-jconfig?branch=master) | [![Crate](http://meritbadge.herokuapp.com/jconfig)](https://crates.io/crates/jconfig) | [![Docs](https://img.shields.io/badge/docs-up--to--date-blue.svg)](https://icorderi.github.io/rust-jconfig/index.html)
 
 ## Basic usage
 
